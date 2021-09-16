@@ -6,6 +6,6 @@ public class GitHubTest {
 			 if(code=="SE")
 	System.out.println("SE");
 
-	System.out.println(" Not SE");
+	System.out.println(" Not a SE");
 }
 }
