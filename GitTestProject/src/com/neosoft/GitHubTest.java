@@ -5,7 +5,7 @@ public class GitHubTest {
 	 String code="SE";
 			 if(code=="SE")
 	System.out.println("SE");
-
+			 else
 	System.out.println(" Not a SEEE");
 }
 }
